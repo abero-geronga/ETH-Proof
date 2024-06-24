@@ -12,6 +12,11 @@ This smart contract offers a simple token implementation with features to mint n
 
 * Open [Remix IDE](https://remix.ethereum.org/).
 * Create a new file and paste the `myToken.sol` file into the IDE OR copy the code and paste it into your own `.sol` file.
+  
+### Executing program
+
+* Compile the contract.
+* Deploy the contract.
 
 ## Help
 For any issues, please create an issue
