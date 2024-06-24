@@ -1,18 +1,20 @@
 # Solidity Ethereum Proof
 
-This was a simple project to mint and burn tokens. Done in solidity for metacrafters.
+This smart contract defines a basic token called "META" with the symbol "MTA" that includes both minting and burning capabilities.
 
 ## Description
 
-This code was done to complete requirements for the "Mastering Solidity" module in Metacrafters.
-The primary functions of this code is to mint and burn tokens through the functions provided in solidity.
+This smart contract offers a simple token implementation with features to mint new tokens and burn existing ones. It's designed to be user-friendly and easy to understand, serving as a great introduction to Ethereum smart contracts.
 
 ## Getting Started
 
 ### Installing
 
-You can just download this file and open it in solidity.
+* Open [Remix IDE](https://remix.ethereum.org/).
+* Create a new file and paste the 'myToken.sol' file into the IDE OR copy the code and paste it into your own '.sol' file.
 
+## Help
+For any issues, please create an issue
 
 ## Authors
 
