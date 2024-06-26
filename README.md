@@ -13,8 +13,8 @@ This smart contract offers a simple token implementation with features to mint n
 * Open [Remix IDE](https://remix.ethereum.org/).
 * Once you are on the Remix website, create a new file by clicking on the `+` icon in the left-hand sidebar. Save the file with a `.sol` extension (e.g., `myToken.sol`). Copy and paste the following code into the file:
 
-`
-contract MyToken {
+
+`contract MyToken {
 
     // public variables here
     string public tokenName = "META";
