@@ -1,10 +1,10 @@
 # Solidity Ethereum Proof
 
-This smart contract defines a basic token called "META" with the symbol "MTA" that includes both minting and burning capabilities.
+This Solidity program focuses on minting and burning tokens. Its purpose is to provide an understanding of tokens and demonstrate how they function in Solidity.
 
 ## Description
 
-This smart contract offers a simple token implementation with features to mint new tokens and burn existing ones. It's designed to be user-friendly and easy to understand, serving as a great introduction to Ethereum smart contracts.
+This Solidity-based smart contract is designed for minting and burning tokens on the Ethereum blockchain. It features functions to create new tokens (mint) and destroy existing ones (burn), enabling dynamic management of the token supply. This contract serves as a fundamental example for developers who want to grasp the basics of token supply control in Solidity, offering a foundation for more sophisticated token management systems in the future.
 
 ## Getting Started
 
